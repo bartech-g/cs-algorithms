@@ -1,8 +1,6 @@
-<h1 align="center">Complete Intro to Computer Science: Algorithms and Data Structures</h1> <br>
+# Complete Intro to Computer Science: Algorithms and Data Structures
 
-<p align="center">
- As taught by Brian Holt for Frontend Masters
-</p>
+### As taught by Brian Holt for Frontend Masters
 
 Learn computer science with Brian Holt!
 
